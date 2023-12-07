@@ -51,5 +51,3 @@ This GitHub repository showcases a customer segmentation project employing K-Mea
 3. **Visualizations:** Stores generated plots and charts (Present in the jupyter notebook)
 
 4. **Documentation:** Provides a detailed README file explaining the project, dataset, and usage instructions.
-
-**Note:** For a more comprehensive README, consider adding details about data sources, license information, and any specific usage instructions.
